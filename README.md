@@ -13,22 +13,21 @@ Pi.java     | Write a program that displays the result of the pi computation.
 ## Lab 2 folder includes:
 Assignment name  | Description
 -------------    | -------------
-Divisible.java     | (fill in here)
-RectangleArea.java     | (fill in here)
+Divisible.java     | Write a program that takes a dividend and divisor as input from console, and tells the user whether the first is divisible by the second. You can assume that the user will enter only integers, but this by itself will not prevent runtime errors -- your program must be prepared to handle all integer inputs.
+RectangleArea.java     | Write a program that prompts the user to enter the width and height of a rectangle, computes and displays the area, or informs the user that the input is invalid.
 
 ## Lab 3 folder includes:
 Assignment name  | Description
 -------------    | -------------
-BMI.java     | (fill in here)
-CofeeMaker.java     | (fill in here)
-CofeeMakerSwitchCase.java     | (fill in here)
-CoinToss.java     | (fill in here)
-CurrencyExchange.java     | (fill in here)
-DayOfWeek.java     | (fill in here)
-MinOfThree.java     | (fill in here)
-RollADie.java     | (fill in here)
-SortThreeInts.java     | (fill in here)
-VendingMachine.java     | (fill in here)
+BMI.java     | Body Mass Index (BMI) is a measure of health on weight. It can be calculated by taking your weight in kilograms and dividing it by the square of your height in meters. Write a program that prompts the user to enter weight in pounds and height in inches and displays the BMI. Note one pound is 0.45359237 kilograms and one inch is 0.0254 meters.
+CofeeMaker.java     | We want to write a program for the behavior of this coffee maker. In our program, we prompt the user for two digits code and then we print the name of the favorite coffee that entered by the user. (Use if statement for your answer)
+CoinToss.java     | Modify your CoinToss program from LAB 2 to use a conditional operator.
+CurrencyExchange.java     | Write a program that prompts the user to enter the exchange rate from currency in U.S. dollars to Chinese RMB. Prompt the user to enter 0 to convert from U.S. dollars to Chinese RMB and 1 to convert from Chinese RMB to U.S. dollars. Prompt the user to enter the amount in U.S. dollars or Chinese RMB to convert it to Chinese RMB or U.S. dollars, respectively.
+DayOfWeek.java     | Write a program that prompts the user to enter an integer for today’s day of the week (Sunday is 0, Monday is 1, . . . , and Saturday is 6). Also prompt the user to enter the number of days after today for a future day and display the future day of the week.
+MinOfThree.java     | Write a program that prompts the user to enter three integers, and finds and displays the minimum.
+RollADie.java     | Write a program that simulates rolling one die. Each time the program is run, it should generate a number in the interval [1, 6], and display die face that corresponds to that number. (See sample runs, and use what you learned from the Face program in LAB 1.)
+SortThreeInts.java     | Write a program that prompts the user to enter three integers, and display these integers in non-decreasing order.
+VendingMachine.java     | We want to write a program for the behavior of this Vending Machine. In our program, we have two levels, in the first level we ask for the category of the items and in the second level we ask for an item in the selected category. 
 
 ## Lab 4 folder includes:
 Assignment name  | Description
