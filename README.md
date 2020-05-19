@@ -6,7 +6,7 @@ Assignment name  | Description
 CupsToTablespoons.java     | (fill in here)
 DigitMultiplication.java     | (fill in here)
 Face.java     | (fill in here)
-HelloWorld.java     | (fill in here)
+HelloWorld.java     | Write a program that that displays the phrase "Hello World!" to the console.
 MilesToKilometers.java     | (fill in here)
 Pi.java     | (fill in here)
 
