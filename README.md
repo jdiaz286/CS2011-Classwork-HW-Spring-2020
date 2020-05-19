@@ -3,12 +3,12 @@ This is just for me, it's all the work I used during my CS class at CSULA
 ## Lab 1 folder includes:
 Assignment name  | Description
 -------------    | -------------
-CupsToTablespoons.java     | (fill in here)
-DigitMultiplication.java     | (fill in here)
-Face.java     | (fill in here)
+CupsToTablespoons.java     | Write a program that converts cups to tablespoons. The conversion factor is 16.213.
+DigitMultiplication.java     | Write a program that reads an integer between 1000 and 9999 and multiplies all the digits in the integer. For example, if an integer is 1234, the multiplication of all its digits is 24.
+Face.java     | Write a program that that displays a face made of characters to the console.
 HelloWorld.java     | Write a program that that displays the phrase "Hello World!" to the console.
-MilesToKilometers.java     | (fill in here)
-Pi.java     | (fill in here)
+MilesToKilometers.java     | Write a program that reads a mile in a double value from the console, converts it to kilometers, and displays the result. The formula for the conversion is as follows: 1 mile = 1.6 kilometers
+Pi.java     | Write a program that displays the result of the pi computation.
 
 ## Lab 2 folder includes:
 Assignment name  | Description
