@@ -1,6 +1,6 @@
 /*
 Name: Jonathan Diaz, CIN: 400075634, Course: CS 2011-03/04
-Description: The goal of this code is to simply write a program that Write a program that prints 
+Description: The goal of this code is to write a program that prints 
 the numbers from 1 to 100. But if the number is divisible by 3 print 'Ba' instead of the number 
 and if it is divisible by 5 print 'Dum'. For numbers which are divisible by both 3 and 5 print 'BaDum'.
 */
