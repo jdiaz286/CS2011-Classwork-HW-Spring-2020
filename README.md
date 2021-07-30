@@ -67,37 +67,37 @@ PatternBlock.java     | Write a program that asks the user to enter the size of 
 ## Lab 8 folder includes:
 Assignment name  | Description
 -------------    | -------------
-LeibnizPi1.java     | (fill in here)
-PatternBlock1.java     | (fill in here)
-PerfectSquares.java     | (fill in here)
-TriangleArea.java     | (fill in here)
+LeibnizPi1.java     | Write a program that Approximate Piusing the Leibniz formula.
+PatternBlock1.java     | Write a program that asks the user enter the size of a square pattern block, and prints out a square block with a pattern that the user chooses.
+PerfectSquares.java     | Write a program that prompts the user to specify an integer range, and displays all the perfect squares (if any) in that range.
+TriangleArea.java     | Write a program that reads three sides for a triangle, and displays its area if the input is valid using Heron's formula.
 
 ## Lab 9 folder includes:
 Assignment name  | Description
 -------------    | -------------
-PasswordValidator.java     | (fill in here)
-VowelsAndConsonants.java     | (fill in here
+PasswordValidator.java     | Write a program that prompts the user to enter a password and displays "Valid Password" if the rules are followed or Invalid Password otherwise.
+VowelsAndConsonants.java     | Write a program that contains methods which analyze Strings with respect to their vowel and consonant content. For the purpose of this problem, 'y' is considered a vowel.
 
 ## Lab 10 folder includes:
 Assignment name  | Description
 -------------    | -------------
-ComputeGrade.java     | (fill in here)
-DiceTester.java     | (fill in here)
-SimpleTester.java     | (fill in here)
-Zipper.java     | (fill in here)
+ComputeGrade.java     | Write a program which prompts the user to enter some graded items and computes the grade out of 100%. Each graded item consists of a score and the total, and we will  assume that each item has the same weight. User can opt to drop the lowest grade from the calculation.
+DiceTester.java     | Write a program which tosses a virtual die the number of times specified by the user, and reports how many times each number (or face) came up. The user enters the number of 
+throws on the command-line.
+SimpleTester.java     | Write a program that generates a simple <subject> <verb> <adjective> sentence on each run using three String arrays.
+Zipper.java     | For this problem, you have some starter code. Save it and run it a few times -- you will see that it generates two arrays of equal lengths populated with random values in range [0,9]. Your task is to complete the zip() method, which takes two equal length arrays and "zips" them. See sample runs below and comments in the starter code for further description of what that means.
 
 ## Lab 11 folder includes:
 Assignment name  | Description
 -------------    | -------------
-ArrayMeld.java     | (fill in here)
-Boxes.java     | (fill in here)
-CardShuffle.java     | (fill in here)
+ArrayMeld.java     | This problem is a bit similar to Zipper from LAB 10 in that I give you some starter code, and you have a to write a method that takes two arrays and combines them into one array.
+Boxes.java     | The objective of this code is to write a program to solve the box puzzle: There are 100 boxes and 100 people. The boxes are labeled from 1 to 100, they are lined up in ascending order (i.e. 1, 2, 3, ..., 100), and at the beginning they are all closed. Then people enter one by one. The first person (P1) opens every box. Then the second person (P2) enters, begins with the second box (B2) and closes every other box. Then the third person (P3) starts with third box (B3) and changes every third box -- if the box is open, the person closes it, and if it was closed, the person opens it. Person P4 begins with box B4 and changesevery fourth box. Person P5 begins with box B5 and changes every 5th box. And so on, until person P100 changes box B100. Your program should simulate this process, and display the labels of boxes that are opened at the end.
+CardShuffle.java     | Write a program that generates a deck of card which is initially ordered, and then shuffles the deck so that on each run the cards appear in random order. Cards are represented by integers in [0, 51] interval. Thereare several sub-problems here: produce an ordered deck of cards; shuffle a deck cards; print out a deck of cards. Full points will be given for programs that encapsulate each of these problems in a separate method.
 
 ## Notable files from Random Java Files folder include:
 Assignment name  | Description
 -------------    | -------------
 FibonachiSequence.java     | (fill in here)
-ASCIITable.java     | (fill in here)
 ComputeAnglesOfTriangle.java     | (fill in here)
 StalinSort.java     | (fill in here)
 JonathanMysteryWordGame.java     | (fill in here)
