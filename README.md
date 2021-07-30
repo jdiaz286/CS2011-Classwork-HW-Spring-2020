@@ -32,37 +32,37 @@ VendingMachine.java     | We want to write a program for the behavior of this Ve
 ## Lab 4 folder includes:
 Assignment name  | Description
 -------------    | -------------
-AlphabetMonster.java     | (fill in here)
-CurrencyExchange1.java     | (fill in here)
-NameGenerator.java     | (fill in here)
-RotatePoint.java     | (fill in here)
+AlphabetMonster.java     | Write a program that that outputs a different message depending on the user input.
+CurrencyExchange1.java     | Write a program that is able to convert Renminbi (RMB) to Dollars (USD) and Vice-Versa.
+NameGenerator.java     | Write a program that creates a 4 letter "name" randomly.
+RotatePoint.java     | Write a program that is able to compute the new coordinates of a 2D point rotated about the origin.
 
 ## Lab 5 folder includes:
 Assignment name  | Description
 -------------    | -------------
-Echo.java     | (fill in here)
-Parrot.java     | (fill in here)
-PhoneValidator.java     | (fill in here)
-TypingTutor.java     | (fill in here)
+Echo.java     | Write a program that gets user input and "echoes" it.
+Parrot.java     | Write a program that prints out input with exclamation.
+PhoneValidator.java     | Write a program that validates whether a user input is in the correct phone number format "(###) ###-####".
+TypingTutor.java     | Write a program that generates a random string and then checks to make sure the user is typing the output correctly.
 
 ## Lab 6 folder includes:
 Assignment name  | Description
 -------------    | -------------
-AlphabetMonster1.java     | (fill in here)
-AlphabetMonster2.java     | (fill in here)
-AlphabetMonster3.java     | (fill in here)
-AlphabetMonster4.java     | (fill in here)
-CountTotalAndAverage.java     | (fill in here)
+AlphabetMonster1.java     | Write a program that outputs a different reaction when a "monster" is fed with a char.
+AlphabetMonster2.java     | Write a program that can output a different reaction when feeding a "monster" a char, the program keeps going until the monster is no longer happy.
+AlphabetMonster3.java     | Write a program that can output a different reaction when feeding a "monster a char", the program keeps going until the monster barfs.
+AlphabetMonster4.java     | Write a program that can output a different reaction when feeding a "monster", make this into a type of "mini-game"
+CountTotalAndAverage.java     | Write a program that reads an unspecified number of integers, determines how many positive and negative values have been read, and computes the total and average of the input values (not counting zeros). The program ends with the input 0.
 
 ## Lab 7 folder includes:
 Assignment name  | Description
 -------------    | -------------
-BaDum.java     | (fill in here)
-CustomCharTable.java     | (fill in here)
-LeapYears.java     | (fill in here)
-LeibnizPi.java     | (fill in here)
-NameGenerator1.java     | (fill in here)
-PatternBlock.java     | (fill in here)
+BaDum.java     | Write a program that prints the numbers from 1 to 100. But if the number is divisible by 3 print 'Ba' instead of the number and if it is divisible by 5 print 'Dum'. For numbers which are divisible by both 3 and 5 print 'BaDum'.
+CustomCharTable.java     | Write a program that asks the user to enter a character range (start and end), and the number of characters per line, and prints all the characters in the range separated by one space.
+LeapYears.java     | Write a program that asks the user to enter year range, prints out all the leap years within that range, and counts them. A year is a leap year if it is divisible by 4 but not by 100, or if it is divisible by 400.
+LeibnizPi.java     | Write a program that Approximate Pi using the Leibniz formula.
+NameGenerator1.java     | Write a program that creates a "name" based off of the users desired length.
+PatternBlock.java     | Write a program that asks the user to enter the size of a square pattern block and prints out a square block with a pattern or '.' and 'o'.
 
 ## Lab 8 folder includes:
 Assignment name  | Description
