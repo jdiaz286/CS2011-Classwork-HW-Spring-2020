@@ -1,5 +1,5 @@
 # CS2011-Classwork-HW-Spring-2020
-This is just for me, it's all the work I used during my CS class at CSULA
+This is just for me, it's all the work I used during my CS 2011 class at CSULA (Spring 2020)
 ## Lab 1 folder includes:
 Assignment name  | Description
 -------------    | -------------
